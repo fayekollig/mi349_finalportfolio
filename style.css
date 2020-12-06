@@ -3,8 +3,7 @@
 
 /*Index Styles*/
 .homePage {
-    display: grid;
-    grid-template-columns: 2fr 3fr;
+    display: flex;
 }
 
 .homeBlock {
