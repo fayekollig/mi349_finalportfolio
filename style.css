@@ -4,12 +4,14 @@
 /*Index Styles*/
 .homePage {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .homeBlock {
     display: flex;
     width: 50%;
-    justify-content: space-between;
+
 }
 
 
