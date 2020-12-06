@@ -1,14 +1,13 @@
 /*Universal Styles*/
-
+body {
+    font-family: serif;
+}
 
 /*Index Styles*/
 
 main {
     width:50%;
     margin: 0 auto;
-}
-.homeBlock {
-    padding-top: 200px;
 }
 
 .homeBlock img {
@@ -26,6 +25,12 @@ main {
 .navHome a {
     text-decoration: none;
     color: black;
+    font-weight: bold;
+}
+
+.navHome a:hover {
+    color: #7490b5;
+    font-style: italic;
 }
 
 
