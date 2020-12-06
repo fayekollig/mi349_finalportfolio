@@ -8,10 +8,6 @@
 
 }
 
-.homeBlock {
-    padding-top: 100px;
-}
-
 .homeBlock img {
     width: 50%;
 }
@@ -19,6 +15,7 @@
     text-decoration: none;
     font-size: 3em;
     list-style-type: none;
+    text-align: left;
 }
 
 
