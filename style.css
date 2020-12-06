@@ -1,6 +1,6 @@
 /*Universal Styles*/
 body {
-    font-family: serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 /*Index Styles*/
@@ -10,9 +10,10 @@ main {
     margin: 0 auto;
 }
 
+.homeBlock {
+    margin-top: 100px;
+}
 .homeBlock img {
-    width: 50%;
-    padding: 10px;
     float: left;
 }
 .navHome {
@@ -25,7 +26,6 @@ main {
 .navHome a {
     text-decoration: none;
     color: black;
-    font-weight: bold;
 }
 
 .navHome a:hover {
