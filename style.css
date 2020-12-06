@@ -5,10 +5,11 @@
 
 
 .homeBlock img {
-    width: 50%;
+    width: 40%;
     float: left;
 }
 .navHome {
+    padding-top: 200px;
     text-decoration: none;
     font-size: 2.5em;
     list-style-type: none;
