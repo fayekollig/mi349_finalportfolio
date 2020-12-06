@@ -6,6 +6,7 @@
 
 .homeBlock img {
     width: 40%;
+    padding: 10px;
     float: left;
 }
 .navHome {
