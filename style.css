@@ -12,6 +12,10 @@
     padding: 20px;
 }
 
+.homeBlock img {
+    width:75%;
+}
+
 .navHome {
     text-decoration: none;
     font-size: 3em;
