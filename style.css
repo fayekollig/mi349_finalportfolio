@@ -11,8 +11,7 @@ main {
 }
 
 .homeBlock {
-    margin-top: 100px;
-    justify-content: center;
+    margin-top: 150px;
 }
 .homeBlock img {
     float: left;
@@ -23,6 +22,7 @@ main {
     font-size: 1.5em;
     list-style-type: none;
     color: black;
+    padding-top: 50px;
 }
 
 .navHome a {
@@ -41,6 +41,9 @@ main {
 /*contact styles*/
 
 /*projects styles*/
-
+.projectBoxWrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
 
 /*about styles*/
