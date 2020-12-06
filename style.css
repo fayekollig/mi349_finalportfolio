@@ -4,12 +4,12 @@
 /*Index Styles*/
 .homePage {
     display: flex;
-    justify-content: center;
 
 }
 
 .homeBlock img {
     width: 50%;
+    justify-content: right;
 }
 .navHome {
     text-decoration: none;
