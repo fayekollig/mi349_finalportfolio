@@ -4,11 +4,12 @@
 /*Index Styles*/
 .homePage {
     display: flex;
+    justify-content: center;
+
 }
 
 .homeBlock {
     padding-top: 100px;
-    
 }
 
 .homeBlock img {
