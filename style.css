@@ -3,6 +3,9 @@
 
 /*Index Styles*/
 
+.homeBlock {
+    padding-top: 100px;
+}
 
 .homeBlock img {
     width: 40%;
@@ -10,7 +13,6 @@
     float: left;
 }
 .navHome {
-    padding-top: 200px;
     text-decoration: none;
     font-size: 2.5em;
     list-style-type: none;
