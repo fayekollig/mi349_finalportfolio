@@ -47,7 +47,7 @@ main {
 .projectBoxWrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    margin: 25px 50px 25px 0px;
+    margin: 25px 200px 25px 0px;
 }
 .projectBox {
     padding:10px;
