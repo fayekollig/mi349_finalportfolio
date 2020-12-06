@@ -6,7 +6,7 @@ body {
 /*Index Styles*/
 
 main {
-    width:50%;
+    width:75%;
     margin: 0 auto;
 }
 
@@ -19,7 +19,7 @@ main {
 }
 .navHome {
     text-decoration: none;
-    font-size: 2em;
+    font-size: 1.5em;
     list-style-type: none;
     color: black;
 }
@@ -27,6 +27,7 @@ main {
 .navHome a {
     text-decoration: none;
     color: black;
+    font-weight:lighter;
 }
 
 .navHome a:hover {
