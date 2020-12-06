@@ -3,19 +3,29 @@
 
 /*Index Styles*/
 
+.homePage {
+    width:75%;
+    margin: 0 auto;
+}
 .homeBlock {
-    padding-top: 100px;
+    padding-top: 200px;
 }
 
 .homeBlock img {
-    width: 40%;
+    width: 50%;
     padding: 10px;
     float: left;
 }
 .navHome {
     text-decoration: none;
-    font-size: 2.5em;
+    font-size: 2em;
     list-style-type: none;
+    color: black;
+}
+
+.navHome a {
+    text-decoration: none;
+    color: black;
 }
 
 
