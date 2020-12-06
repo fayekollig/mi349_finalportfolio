@@ -3,6 +3,7 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+
 /*Index Styles*/
 
 main {
@@ -44,6 +45,30 @@ main {
 .projectBoxWrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 25px;
 }
 
+.projectBox {
+    padding:50px;
+}
+
+.projectHeadline {
+    color:#7490b5;
+    font-size: 2em;
+}
+.projectSubhead, .boxHeadline {
+    color:#7490b5;
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+.projectDescription {
+    color:#7490b5;
+    font-size: 1em;
+    font-style: italic;
+}
+
+.boxText {
+    font-size: 1em;
+}
 /*about styles*/
