@@ -2,19 +2,16 @@
 
 
 /*Index Styles*/
-.homePage {
-    display: flex;
-    justify-content: flex-start;
-}
+
 
 .homeBlock img {
     width: 50%;
+    float: left;
 }
 .navHome {
     text-decoration: none;
     font-size: 2.5em;
     list-style-type: none;
-    text-align: left;
 }
 
 
