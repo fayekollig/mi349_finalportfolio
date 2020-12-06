@@ -7,10 +7,6 @@
     flex-wrap: wrap;
     justify-content: center;
 }
-.homeBlock {
-    width: 50%;
-    padding: 20px;
-}
 
 .homeBlock img {
     width:75%;
