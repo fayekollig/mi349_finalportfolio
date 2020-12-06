@@ -12,6 +12,7 @@ main {
 
 .homeBlock {
     margin-top: 100px;
+    justify-content: center;
 }
 .homeBlock img {
     float: left;
