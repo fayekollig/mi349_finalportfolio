@@ -55,20 +55,28 @@ main {
 .projectHeadline {
     color:#7490b5;
     font-size: 2em;
+    padding: none;
+    margin: none;
 }
 .projectSubhead, .boxHeadline {
     color:#7490b5;
     font-size: 1.5em;
     font-style: italic;
+    padding: none;
+    margin: none;
 }
 
 .projectDescription {
     color:#7490b5;
     font-size: 1em;
     font-style: italic;
+    padding: none;
+    margin: none;
 }
 
 .boxText {
     font-size: 1em;
+    padding: none;
+    margin: none;
 }
 /*about styles*/
