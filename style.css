@@ -119,6 +119,9 @@ main {
     height: 150px;
     margin: 5px;
 }
+.projectBoxWrapper {
+    display: block;
+}
 }
 
 @media screen and (max-width: 600px){
@@ -147,5 +150,7 @@ main {
         display: block;
         width: 100%;
     }
+
+    
 
 }
