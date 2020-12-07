@@ -112,7 +112,6 @@ main {
 .navigation li{
     float: left;
     padding: 1em;
-    transition: .25s;
 }
 
 .selected {
@@ -253,6 +252,12 @@ color: inherit;
         height: auto;
     }
 
-    
+    .hamburgerMenu {
+        display: block;
+    }
+
+    .navigation {
+        display: hidden;
+    }
 
 }
