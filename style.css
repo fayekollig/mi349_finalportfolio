@@ -105,6 +105,10 @@ main {
     .navHome{
         font-size: 2em;
     }
+    .images img{
+        height: 300px;
+        margin: 10px;
+    }
 }
 
 @media screen and (max-width: 900px) {
@@ -112,7 +116,7 @@ main {
     font-size: 1.5em;
    }
    .images img{
-    height: 300px;
+    height: 200px;
     margin: 10px;
 }
 }
@@ -141,7 +145,7 @@ main {
     }
 
     .images img{
-        height: 200px;
+        height: 100px;
         margin: 10px;
     }
   
