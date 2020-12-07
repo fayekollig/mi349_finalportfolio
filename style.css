@@ -39,51 +39,6 @@ main {
     font-style: italic;
 }
 
-@media screen and (max-width: 1200px){
-    .navHome{
-        font-size: 2em;
-    }
-}
-
-@media screen and (max-width: 900px) {
-   .navHome {
-    font-size: 1.5em;
-   }
-   .images img {
-       height: 250px;
-   }
-}
-
-@media screen and (max-width: 600px){
-    .homeBlock img {
-        float: none;
-        width: 100%;
-        margin: 0;
-        padding: 0;
-    }
-    .homeBlock {
-        margin: 0;
-
-    }
-    .navHome{
-        padding: 10px 50px 10px 50px;
-        font-size: 2.5em;
-        text-align: center;
-        background-color: #7490b5;
-        margin: 0;
-    }
-
-    .navHome a:hover {
-        color: white;
-    }
-
-    .images img {
-        height: 200px;
-    }
-    
-
-  
-}
 /*contact styles*/
 
 /*projects styles*/
@@ -142,3 +97,50 @@ main {
 
 
 /*about styles*/
+
+
+
+/* media queries*/
+@media screen and (max-width: 1200px){
+    .navHome{
+        font-size: 2em;
+    }
+}
+
+@media screen and (max-width: 900px) {
+   .navHome {
+    font-size: 1.5em;
+   }
+   .images img {
+       height: 250px;
+   }
+}
+
+@media screen and (max-width: 600px){
+    .homeBlock img {
+        float: none;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .homeBlock {
+        margin: 0;
+
+    }
+    .navHome{
+        padding: 10px 50px 10px 50px;
+        font-size: 2.5em;
+        text-align: center;
+        background-color: #7490b5;
+        margin: 0;
+    }
+
+    .navHome a:hover {
+        color: white;
+    }
+
+    .images img {
+        height: 200px;
+    }
+  
+}
