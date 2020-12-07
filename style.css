@@ -111,7 +111,7 @@ main {
 
 .navigation li{
     float: left;
-    padding: 1.5em;
+    padding: 1em;
     transition: .25s;
 }
 
