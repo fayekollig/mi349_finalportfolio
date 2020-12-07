@@ -111,9 +111,9 @@ main {
 
 .navigation li{
     float: left;
-    
     padding: 1.5em;
     transition: .25s;
+    font-size: 1.5em;
 }
 
 .selected {
@@ -125,7 +125,7 @@ main {
 }
 
 .navigation li:hover{
-    color: #7490b5;
+    font-style: italic;
 }
 
 .navigation li a{
