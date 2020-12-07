@@ -51,25 +51,23 @@ main {
     margin-right: 75px;
     padding: 2px;
     text-decoration: none;
-    color: white;
+    color: #909090;
     font-weight: bold;
     text-align: right;
 }
 
 .hamburgerMenu a:hover {
-    background-color: green;
-    color: black;
+    color: #7490b5;
     text-decoration: none;
 }
 
 .hamburgerMenu label {
     display: block;
-    background-color: #7DB574;
  
 }
  .hamburgerMenu img {
      display: block;  
-     height: 50px;
+     height: 75px;
      padding-left: 10px;
      float: right;
     
