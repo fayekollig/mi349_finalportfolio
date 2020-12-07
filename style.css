@@ -24,13 +24,13 @@ main {
     text-decoration: none;
     font-size: 2em;
     list-style-type: none;
-    color: black;
+    color: #404040;
     padding-top: 100px;
 }
 
 .navHome a {
     text-decoration: none;
-    color: black;
+    color: #404040;
     font-weight:lighter;
 }
 
