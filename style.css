@@ -80,7 +80,7 @@ main {
 }
 
 .images img{
-    height: 325px;
+    height: 300px;
     margin: 5px;
 }
 .images {
@@ -121,6 +121,7 @@ main {
 }
 .projectBoxWrapper {
     display: block;
+    margin: 0px 0px 10px 10px;
 }
 }
 
