@@ -133,7 +133,10 @@ color: inherit;
 }
 
 .navGrid img{
-    padding: 5px 30px 5px 5px;
+    padding-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
 
 }
 /*contact styles*/
