@@ -47,7 +47,6 @@ main {
 }
 
 .hamburgerMenu a {
-    display:block;
     text-decoration: none;
     color: #909090;
     font-size: 1.5em;
@@ -59,7 +58,6 @@ main {
     text-decoration: none;
 }
  .hamburgerMenu img {
-     display: block;  
      height: 50px;
      padding: 15px;
 }
@@ -212,6 +210,7 @@ color: inherit;
 }
 .hamburgerMenu {
     display: block;
+    float: right;
 }
 
 .navigation {
