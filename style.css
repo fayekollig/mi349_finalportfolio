@@ -63,13 +63,12 @@ main {
 
 .hamburgerMenu label {
     display: block;
-    float: left;
 }
  .hamburgerMenu img {
      display: block;  
      height: 75px;
      padding-left: 10px;
-     float: right;
+     float: left;
 }
 
 .hamburgerMenu label div {
@@ -80,6 +79,7 @@ main {
 
 .hamburgerMenu label input {
     display: none;
+    float: left;
 }
 
 .hamburgerMenu label input:checked ~ div {
