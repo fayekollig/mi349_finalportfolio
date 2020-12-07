@@ -65,12 +65,15 @@ main {
 
     }
     .navHome{
-        padding-top: 0;
+        padding: 10px 50px 10px 50px;
         font-size: 2em;
         text-align: center;
         background-color: #7490b5;
     }
 
+    .navHome a:hover {
+        color: white;
+    }
     
 
   
