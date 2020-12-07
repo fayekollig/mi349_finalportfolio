@@ -39,13 +39,13 @@ main {
     font-style: italic;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1200px){
     .navHome{
         font-size: 2em;
     }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
    .navHome {
     font-size: 1.5em;
    }
@@ -54,6 +54,11 @@ main {
 @media screen and (max-width: 600px){
     .homeBlock img {
         float: none;
+        width:100%;
+    }
+
+    .navHome{
+        padding-top: 0;
     }
 }
 /*contact styles*/
