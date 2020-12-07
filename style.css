@@ -111,10 +111,17 @@ main {
 
 .navigation li{
     float: left;
-    color: #808080;
+    
     padding: 1.5em;
     transition: .25s;
-    font-weight: 700;
+}
+
+.selected {
+    color: #7490b5;
+}
+
+.deselected {
+    color: #808080;
 }
 
 .navigation li:hover{
