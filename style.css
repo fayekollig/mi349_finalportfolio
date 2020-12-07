@@ -39,8 +39,23 @@ main {
     font-style: italic;
 }
 
+@media screen and (max-width: 1000px){
+    .navHome{
+        font-size: 2em;
+    }
+}
 
+@media screen and (max-width: 800px) {
+   .navHome {
+    font-size: 1.5em;
+   }
+}
 
+@media screen and (max-width: 600px){
+    .homeBlock img {
+        float: none;
+    }
+}
 /*contact styles*/
 
 /*projects styles*/
