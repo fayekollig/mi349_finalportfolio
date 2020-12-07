@@ -43,13 +43,13 @@ main {
 
 @media screen and (max-width: 1200px){
     .navHome{
-        font-size: 2.5em;
+        font-size: 2em;
     }
 }
 
 @media screen and (max-width: 900px) {
    .navHome {
-    font-size: 1.5em;
+    font-size: 1em;
    }
 }
 
@@ -66,9 +66,10 @@ main {
     }
     .navHome{
         padding: 10px 50px 10px 50px;
-        font-size: 2em;
+        font-size: 2.5em;
         text-align: center;
         background-color: #7490b5;
+        margin: 0;
     }
 
     .navHome a:hover {
