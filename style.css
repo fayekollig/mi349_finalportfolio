@@ -22,10 +22,10 @@ main {
 }
 .navHome {
     text-decoration: none;
-    font-size: 2.5em;
+    font-size: 3em;
     list-style-type: none;
     color: #404040;
-    padding-top: 6%;
+    padding-top: 8%;
 }
 
 .navHome a {
@@ -43,7 +43,7 @@ main {
 
 @media screen and (max-width: 1200px){
     .navHome{
-        font-size: 2em;
+        font-size: 2.5em;
     }
 }
 
@@ -66,6 +66,7 @@ main {
     }
     .navHome{
         padding-top: 0;
+        font-size: 2em;
     }
 
   
