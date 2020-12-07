@@ -67,7 +67,11 @@ main {
     .navHome{
         padding-top: 0;
         font-size: 2em;
+        text-align: center;
+        background-color: #7490b5;
     }
+
+    
 
   
 }
