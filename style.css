@@ -222,6 +222,13 @@ color: inherit;
     display: block;
     margin: 0px 0px 10px 10px;
 }
+.hamburgerMenu {
+    display:block;
+}
+
+.navigation {
+    display: none;
+}
 }
 
 @media screen and (max-width: 600px){
@@ -252,12 +259,5 @@ color: inherit;
         height: auto;
     }
 
-    .hamburgerMenu {
-        display: block;
-    }
-
-    .navigation {
-        display: hidden;
-    }
 
 }
