@@ -113,7 +113,6 @@ main {
     float: left;
     padding: 1.5em;
     transition: .25s;
-    font-size: 1.5em;
 }
 
 .selected {
