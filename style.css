@@ -63,7 +63,7 @@ main {
 
 .hamburgerMenu label {
     display: block;
- 
+    float: left;
 }
  .hamburgerMenu img {
      display: block;  
