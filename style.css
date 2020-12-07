@@ -92,8 +92,8 @@ main {
 
 .navGrid {
     display: flex;
-    background-color: #d4d4d4;
-    border-color: #d4d4d4;
+    background-color: #e2e2e2;
+    border-color: #e2e2e2;
     border-width: 0px 0px 10px 0px;
     border-style: solid;
     margin: 0;
@@ -133,7 +133,7 @@ color: inherit;
 }
 
 .navGrid img{
-    padding-left: 50px;
+    padding: 30px 5px 5px 5px;
 
 }
 /*contact styles*/
