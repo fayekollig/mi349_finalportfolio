@@ -125,4 +125,11 @@ main {
     margin: 10px;
     padding: 0;
 }
+
+.images p {
+    font-size: 0.8em;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+}
 /*about styles*/
