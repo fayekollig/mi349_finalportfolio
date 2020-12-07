@@ -55,9 +55,10 @@ main {
     .homeBlock img {
         float: none;
         width: 100%;
+        display: none;
         margin: 0;
         padding: 0;
-        src: url("assets/name_large_mobile.png");
+        background: url("assets/name_large_mobile.png") left top no-repeat;
     }
     .homeBlock {
         margin: 0;
