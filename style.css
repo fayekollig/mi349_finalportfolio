@@ -39,6 +39,100 @@ main {
     font-style: italic;
 }
 
+/* navigation styles*/
+
+.hamburgerMenu {
+    float: right;
+    display: none;
+}
+
+.hamburgerMenu a {
+    display:block;
+    margin-right: 75px;
+    padding: 2px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-align: right;
+}
+
+.hamburgerMenu a:hover {
+    background-color: green;
+    color: black;
+    text-decoration: none;
+}
+
+.hamburgerMenu label {
+    display: block;
+    background-color: #7DB574;
+ 
+}
+ .hamburgerMenu img {
+     display: block;  
+     height: 50px;
+     padding-left: 10px;
+     float: right;
+    
+}
+
+.hamburgerMenu label div {
+    margin: 0 0 0 0;
+    display: none;
+    padding-left: 10px;
+    float: inherit;
+}
+
+.hamburgerMenu label input {
+    display: none;
+}
+
+.hamburgerMenu label input:checked ~ div {
+    display: block;
+}
+
+.navGrid {
+    display: grid;
+    grid-template-columns: 10em auto;
+    background-color: #7db574;
+    border-color: #7db574;
+    border-width: 0px 0px 10px 0px;
+    border-style: solid;
+    margin: 0;
+}
+
+
+.navigation {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0;
+   
+}
+
+.navigation li{
+    float: left;
+    display: block;
+    color: #d4e6d1;
+    padding: 1.5em;
+    transition: .25s;
+    font-weight: 700;
+}
+
+.navigation li:hover{
+    color: #1f3207;
+    background-color: #d4e6d1;
+}
+
+.navigation li a{
+text-decoration: none;
+color: inherit;
+}
+
+.navGrid img{
+    padding-top: 1em;
+}
 /*contact styles*/
 
 /*projects styles*/
