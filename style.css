@@ -70,14 +70,12 @@ main {
      height: 75px;
      padding-left: 10px;
      float: right;
-    
 }
 
 .hamburgerMenu label div {
     margin: 0 0 0 0;
     display: none;
     padding-left: 10px;
-    float: inherit;
 }
 
 .hamburgerMenu label input {
