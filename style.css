@@ -111,9 +111,10 @@ main {
    .navHome {
     font-size: 1.5em;
    }
-   .images img {
-       height: 250px;
-   }
+   .images img{
+    height: 300px;
+    margin: 10px;
+}
 }
 
 @media screen and (max-width: 600px){
@@ -139,8 +140,9 @@ main {
         color: white;
     }
 
-    .images img {
+    .images img{
         height: 200px;
+        margin: 10px;
     }
   
 }
