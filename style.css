@@ -91,8 +91,7 @@ main {
 }
 
 .navGrid {
-    display: grid;
-    grid-template-columns: 10em auto;
+    display: flex;
     background-color: #d4d4d4;
     border-color: #d4d4d4;
     border-width: 0px 0px 10px 0px;
@@ -112,7 +111,6 @@ main {
 
 .navigation li{
     float: left;
-    display: block;
     color: #808080;
     padding: 1.5em;
     transition: .25s;
