@@ -18,11 +18,11 @@ main {
 }
 .homeBlock img {
     float: left;
-    width: 50%;
+    width: 55%;
 }
 .navHome {
     text-decoration: none;
-    font-size: 2em;
+    font-size: 2.5em;
     list-style-type: none;
     color: #404040;
     padding-top: 5%;
