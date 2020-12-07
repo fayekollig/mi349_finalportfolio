@@ -53,20 +53,17 @@ main {
     text-decoration: none;
     color: #909090;
     font-weight: bold;
-    text-align: left;
+    text-align: right;
 }
 
 .hamburgerMenu a:hover {
     color: #7490b5;
     text-decoration: none;
 }
-
-
  .hamburgerMenu img {
      display: block;  
      height: 75px;
      padding-left: 10px;
-     float: left;
 }
 
 .hamburgerMenu label div {
@@ -77,7 +74,6 @@ main {
 
 .hamburgerMenu label input {
     display: none;
-    float: left;
 }
 
 .hamburgerMenu label input:checked ~ div {
