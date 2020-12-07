@@ -53,7 +53,7 @@ main {
     text-decoration: none;
     color: #909090;
     font-weight: bold;
-    text-align: right;
+    text-align: left;
 }
 
 .hamburgerMenu a:hover {
@@ -61,9 +61,7 @@ main {
     text-decoration: none;
 }
 
-.hamburgerMenu label {
-    display: block;
-}
+
  .hamburgerMenu img {
      display: block;  
      height: 75px;
