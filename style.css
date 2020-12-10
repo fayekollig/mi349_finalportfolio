@@ -154,7 +154,6 @@ color: inherit;
     width: 30%;
     margin: 5px;
     height: auto;
-    background-color: #8cadd8b0;
     padding: 10px;
 }
 
@@ -169,7 +168,7 @@ color: inherit;
     color: #404040;
     margin: 0;
     padding: 0;
-    margin-top: 10px;
+    margin-top: 10px;   
 }
 
 .flexBox p {
