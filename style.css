@@ -50,7 +50,6 @@ main {
 /* navigation styles*/
 
 .hamburgerMenu {
-    float: right;
     display: none;
     padding: 10px;
     text-align: right;
@@ -60,7 +59,6 @@ main {
     text-decoration: none;
     color: #909090;
     font-size: 1.25em;
- 
     display: block;
 }
 
@@ -70,6 +68,7 @@ main {
 }
  .hamburgerMenu img {
      height: 35px;
+     width: auto;
      padding: 15px;
      float: right;
 }
