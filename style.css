@@ -6,12 +6,20 @@ h1 {
     font-size: 3em;
 }
 
-/*Index Styles*/
+h2 {
+    color:#7490b5;
+    font-size: 2em;
+    padding: 0;
+    margin: 0;
+}
 
 main {
     width:75%;
     margin: 0 auto;
 }
+
+/*Index Styles*/
+
 
 .homeBlock {
     margin-top: 150px;
@@ -139,13 +147,8 @@ color: inherit;
     padding:10px;
 }
 
-.projectHeadline {
-    color:#7490b5;
-    font-size: 2em;
-    padding: 0;
-    margin: 0;
-}
-.projectSubhead, .boxHeadline {
+
+h3, .boxHeadline {
     color:#7490b5;
     font-size: 1.5em;
     font-style: italic;
@@ -185,7 +188,10 @@ color: inherit;
 
 
 /*about styles*/
-
+#headshot {
+    float: left;
+    width: 40%;
+}
 
 
 /* media queries*/
