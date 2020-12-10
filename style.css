@@ -150,7 +150,7 @@ color: inherit;
 }
 
 .flexBox {
-    width: 200px;
+    width: 300px;
     margin: 5px;
     height: auto;
     background-color: #7490b5;
@@ -162,10 +162,6 @@ color: inherit;
     height: auto;
 }
 
-.cover {
-    float: left;
-    width: 50%;
-}
 
 
 /*projects styles*/
