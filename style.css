@@ -146,6 +146,7 @@ color: inherit;
 /*other styles*/
 .flexGrid {
     display: flex;
+    flex-flow: row;
 }
 
 .flexBox {
@@ -255,7 +256,7 @@ h3, .boxHeadline {
         margin-right: 25px;
     }
     .flexBox {
-        width: 32%;
+        width: 30%;
     }
 }
 
