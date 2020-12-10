@@ -246,7 +246,7 @@ h3, .boxHeadline {
 }
 
 #headshot {
-    display: block;
+   float: none;
 }
 }
 
