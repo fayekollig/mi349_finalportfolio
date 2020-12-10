@@ -88,6 +88,7 @@ label {
 
 .hamburgerMenu label input:checked ~ div {
     display: block;
+    float: right;
 }
 
 .navGrid {
