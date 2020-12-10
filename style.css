@@ -162,10 +162,6 @@ color: inherit;
     height: auto;
 }
 
-#covers {
-    flex-grow: 2;
-}
-
 .cover {
     float: left;
     width: 50%;
