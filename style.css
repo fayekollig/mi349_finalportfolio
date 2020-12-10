@@ -150,11 +150,11 @@ color: inherit;
 }
 
 .flexBox {
-    width: 350px;
+    width: 50%;
     margin: 5px;
     height: auto;
     background-color: #7490b5;
-    padding: 5px;
+    padding: 10px;
 }
 
 .flexBox img{
