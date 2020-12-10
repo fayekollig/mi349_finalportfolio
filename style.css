@@ -254,6 +254,11 @@ h3, .boxHeadline {
 
 #headshot {
    float: none;
+   width: 100%;
+}
+
+.contactBox {
+    margin: 0;
 }
 }
 
