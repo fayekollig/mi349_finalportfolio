@@ -146,7 +146,7 @@ color: inherit;
 /*other styles*/
 .flexGrid {
     display: flex;
-    flex-flow: row;
+    flex-wrap: wrap;
 }
 
 .flexBox {
