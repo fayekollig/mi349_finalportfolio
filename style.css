@@ -143,7 +143,19 @@ color: inherit;
     width: auto;
 
 }
-/*contact styles*/
+/*other styles*/
+.flexGrid {
+    display: flex;
+}
+
+.flexBox {
+    width: 30%;
+    margin: 5px;
+    height: auto;
+    background-color: #7490b5;
+    padding: 5px;
+}
+
 
 /*projects styles*/
 .projectBoxWrapper {
