@@ -71,6 +71,10 @@ main {
      padding: 15px;
 }
 
+label {
+    float: right;
+}
+
 .hamburgerMenu label div {
     margin: 0 0 0 0;
     display: none;
