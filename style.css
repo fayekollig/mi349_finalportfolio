@@ -156,6 +156,11 @@ color: inherit;
     padding: 5px;
 }
 
+.flexBox img{
+    width: 100%;
+    height: auto;
+}
+
 
 /*projects styles*/
 .projectBoxWrapper {
