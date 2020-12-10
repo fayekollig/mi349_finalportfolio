@@ -190,9 +190,28 @@ h3, .boxHeadline {
 /*about styles*/
 #headshot {
     float: left;
-    width: 40%;
+    width: 30%;
+    margin: 10px;
 }
 
+.contactBox {
+    background-color: #7490b5;
+    color: white;
+    padding:10px;
+}
+
+.contactBox p {
+    margin: 0;
+    padding: 0;
+    font-size: 1.25em;
+}
+.contactBox a{
+    color: white;
+}
+.contactBox a:hover {
+    font-style: italic;
+    color: #404040;
+}
 
 /* media queries*/
 @media screen and (max-width: 1200px){
