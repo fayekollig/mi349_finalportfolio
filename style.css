@@ -58,9 +58,8 @@ main {
     text-decoration: none;
     color: #909090;
     font-size: 1.5em;
-    text-align: right;
+    text-align: center;
     display: block;
-    float: right;
 }
 
 .hamburgerMenu a:hover {
