@@ -149,7 +149,7 @@ color: inherit;
 }
 
 .flexBox {
-    width: 30%;
+    width: 25%;
     margin: 5px;
     height: auto;
     background-color: #7490b5;
@@ -254,6 +254,9 @@ h3, .boxHeadline {
     #headshot {
         margin-right: 25px;
     }
+    .flexBox {
+        width: 32%;
+    }
 }
 
 @media screen and (max-width: 900px) {
@@ -317,9 +320,8 @@ h3, .boxHeadline {
         width: 100%;
         height: auto;
     }
-    
-    .flexBox {
-        width: 100%;
-       }
-
+    .flexGrid {
+        display: block;
+    }
+  
 }
