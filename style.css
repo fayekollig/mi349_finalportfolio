@@ -69,6 +69,7 @@ main {
  .hamburgerMenu img {
      height: 50px;
      padding: 15px;
+     float: right;
 }
 
 label {
