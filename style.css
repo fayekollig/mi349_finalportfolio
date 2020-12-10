@@ -57,8 +57,8 @@ main {
 .hamburgerMenu a {
     text-decoration: none;
     color: #909090;
-    font-size: 1.5em;
-    text-align: center;
+    font-size: 1.25em;
+    text-align: right;
     display: block;
 }
 
