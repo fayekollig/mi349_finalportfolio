@@ -221,6 +221,14 @@ h3, .boxHeadline {
     margin: 0;
 }
 
+.boxText a {
+    color: #7490b5;
+}
+
+.boxText a:hover {
+    font-style: italic;
+}
+
 .images img{
     height: 300px;
     margin: 5px;
