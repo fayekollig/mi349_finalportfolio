@@ -191,13 +191,14 @@ h3, .boxHeadline {
 #headshot {
     float: left;
     width: 30%;
-    margin: 10px;
+    margin: 0px 10px 25px 0px;
 }
 
 .contactBox {
     background-color: #7490b5;
     color: white;
     padding:10px;
+    width: 70%;
 }
 
 .contactBox p {
