@@ -337,6 +337,9 @@ h3, .boxHeadline {
         text-align: center;
         background-color: #7490b5;
         margin: 0;
+    }
+
+    .navHome a{
         color: white;
     }
 
