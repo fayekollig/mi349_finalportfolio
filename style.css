@@ -147,6 +147,7 @@ color: inherit;
 .flexGrid {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center; 
 }
 
 .flexBox {
