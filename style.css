@@ -60,6 +60,7 @@ main {
     font-size: 1.5em;
     text-align: right;
     display: block;
+    float: right;
 }
 
 .hamburgerMenu a:hover {
