@@ -323,5 +323,8 @@ h3, .boxHeadline {
     .flexGrid {
         display: block;
     }
+    .flexBox {
+        width: 100%;
+    }
   
 }
