@@ -150,7 +150,7 @@ color: inherit;
 }
 
 .flexBox {
-    width: 30%;
+    width: 200px;
     margin: 5px;
     height: auto;
     background-color: #7490b5;
@@ -164,6 +164,11 @@ color: inherit;
 
 #covers {
     flex-grow: 2;
+    display: flex;
+}
+
+.cover {
+    flex-wrap: wrap;
 }
 
 
@@ -290,9 +295,12 @@ h3, .boxHeadline {
 .contactBox {
     margin: 0;
 }
+.flexGrid {
+    display: block;
+}
 .flexBox {
-    width: 50%;
-   }
+    width: 100%;
+}
 }
 
 @media screen and (max-width: 600px){
@@ -322,11 +330,6 @@ h3, .boxHeadline {
         width: 100%;
         height: auto;
     }
-    .flexGrid {
-        display: block;
-    }
-    .flexBox {
-        width: 100%;
-    }
+  
   
 }
