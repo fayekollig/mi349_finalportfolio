@@ -52,6 +52,7 @@ main {
 .hamburgerMenu {
     float: right;
     display: none;
+    padding: 10px;
 }
 
 .hamburgerMenu a {
