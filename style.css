@@ -213,6 +213,10 @@ h3, .boxHeadline {
     color: #404040;
 }
 
+.aboutPage {
+    font-size: 1.25em;
+}
+
 /* media queries*/
 @media screen and (max-width: 1200px){
     .navHome{
@@ -221,6 +225,9 @@ h3, .boxHeadline {
     .images img{
         height: 225px;
         margin: 5px;
+    }
+    #headshot {
+        margin-right: 25px;
     }
 }
 
