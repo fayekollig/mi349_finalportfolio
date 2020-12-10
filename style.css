@@ -152,9 +152,8 @@ color: inherit;
 
 .flexBox {
     width: 30%;
-    margin: 5px;
+    margin: 10px;
     height: auto;
-    padding: 10px;
 }
 
 .flexBox img{
@@ -183,6 +182,7 @@ color: inherit;
 
 .textBox {
     background-color: #7490b5;
+    padding: 10px;
 }
 
 
