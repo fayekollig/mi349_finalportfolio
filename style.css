@@ -181,6 +181,10 @@ color: inherit;
     padding-right: 5px;
 }
 
+.textBox {
+    background-color: #7490b5;
+}
+
 
 /*projects styles*/
 .projectBoxWrapper {
