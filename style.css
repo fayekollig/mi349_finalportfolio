@@ -162,6 +162,10 @@ color: inherit;
     height: auto;
 }
 
+#covers {
+    flex-grow: 2;
+}
+
 
 /*projects styles*/
 .projectBoxWrapper {
