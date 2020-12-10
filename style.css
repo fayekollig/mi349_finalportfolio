@@ -154,12 +154,15 @@ color: inherit;
     width: 30%;
     margin: 10px;
     height: auto;
+    padding:5px;
 }
 
 .flexBox img{
     width: 100%;
     height: auto;
     border: solid 5px #7490b5;
+    margin: 0;
+    padding:0;
 }
 
 .flexBox h4 {
