@@ -285,6 +285,9 @@ h3, .boxHeadline {
 .contactBox {
     margin: 0;
 }
+.flexBox {
+    width: 50%;
+   }
 }
 
 @media screen and (max-width: 600px){
@@ -314,6 +317,8 @@ h3, .boxHeadline {
         width: 100%;
         height: auto;
     }
-
+    .flexBox {
+        width: 100%;
+       }
 
 }
