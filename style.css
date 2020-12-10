@@ -84,6 +84,7 @@ label {
 
 .hamburgerMenu label input {
     display: none;
+    float: right;
 }
 
 .hamburgerMenu label input:checked ~ div {
