@@ -164,11 +164,11 @@ color: inherit;
 
 #covers {
     flex-grow: 2;
-    display: flex;
 }
 
 .cover {
-    flex-wrap: wrap;
+    float: left;
+    width: 50%;
 }
 
 
