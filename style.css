@@ -259,6 +259,9 @@ h3, .boxHeadline {
     display: block;
     margin: 0px 0px 10px 10px;
 }
+.navigation {
+    font-size:1.5em;
+}
 
 #headshot {
    float: none;
@@ -301,6 +304,14 @@ h3, .boxHeadline {
 
     .navHome a:hover {
         color: #808080;
+    }
+
+    .navGrid {
+        display: block;
+    }
+
+    .navigation {
+        text-align: left;
     }
     .images img {
         display: block;
