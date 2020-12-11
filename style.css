@@ -313,6 +313,7 @@ h3, .boxHeadline {
 
     .navigation li {
         float: none;
+        padding: 2px;
     }
     .images img {
         display: block;
