@@ -49,50 +49,6 @@ main {
 
 /* navigation styles*/
 
-.hamburgerMenu {
-    display: none;
-    padding: 10px;
-    text-align: right;
-}
-
-.hamburgerMenu a {
-    text-decoration: none;
-    color: #909090;
-    font-size: 1.25em;
-    display: block;
-}
-
-.hamburgerMenu a:hover {
-    color: #7490b5;
-    text-decoration: none;
-}
- .hamburgerMenu img {
-     height: 35px;
-     width: auto;
-     padding: 15px;
-     float: right;
-}
-
-label {
-    float: right;
-}
-
-.hamburgerMenu div {
-    margin: 0 0 0 0;
-    display: none;
-    padding-left: 10px;
-}
-
-.hamburgerMenu label input {
-    display: none;
-    float: right;
-}
-
-.hamburgerMenu label input:checked ~div {
-    display: block;
-    float: right;
-}
-
 .navGrid {
     display: flex;
     background-color: #e2e2e2;
@@ -302,14 +258,6 @@ h3, .boxHeadline {
 .projectBoxWrapper {
     display: block;
     margin: 0px 0px 10px 10px;
-}
-.hamburgerMenu {
-    display: block;
-    float: right;
-}
-
-.navigation {
-    display: none;
 }
 
 #headshot {
