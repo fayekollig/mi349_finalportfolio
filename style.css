@@ -308,6 +308,7 @@ h3, .boxHeadline {
 
    .navigation {
         text-align: left;
+        display: block;
     }
 
     .navigation li {
