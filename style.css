@@ -306,12 +306,12 @@ h3, .boxHeadline {
         color: #808080;
     }
 
-    .navGrid {
-        display: block;
+   .navigation {
+        text-align: left;
     }
 
-    .navigation {
-        text-align: left;
+    .navigation li {
+        float: none;
     }
     .images img {
         display: block;
