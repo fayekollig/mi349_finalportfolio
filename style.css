@@ -53,7 +53,7 @@ main {
     display: flex;
     background-color: #e2e2e2;
     border-color: #e2e2e2;
-    border-width: 0px 0px 0px 0px;
+    border-width: 0;
     border-style: solid;
     margin: 0;
 }
@@ -103,7 +103,8 @@ color: inherit;
 .flexGrid {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center; 
+    align-items: flex-end;
+    justify-content: space-around; 
 }
 
 .flexBox {
