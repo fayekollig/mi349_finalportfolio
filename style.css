@@ -195,7 +195,7 @@ h3, .boxHeadline {
     padding: 0;
 }
 
-.images p {
+.images figcaption {
     font-size: 0.8em;
     font-style: italic;
     margin: 0;
