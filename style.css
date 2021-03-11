@@ -103,7 +103,6 @@ color: inherit;
 .flexGrid {
     display: flex;
     flex-wrap: wrap;
-    align-items: flex-end;
     justify-content: space-around; 
 }
 
@@ -142,6 +141,7 @@ color: inherit;
 .textBox {
     background-color: #7490b5;
     padding: 10px;
+    align-items: flex-end;
 }
 
 
