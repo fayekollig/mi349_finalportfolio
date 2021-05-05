@@ -151,12 +151,34 @@ color: inherit;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     margin: 0 0 25px 50px;
+    text-decoration: none;
+}
+.projectBoxWrapper a {
+  text-decoration: none;
 }
 .projectBox {
     padding:10px;
 }
-
-
+.projectTitleBox {
+  padding: 15px;
+  margin: 15px;
+  text-decoration: none;
+  background-color: #e2e2e2;
+}
+.projectTitleBox:hover {
+  background-color:#808080;
+  color: #e2e2e2;
+  transition-duration: 1s;
+}
+.projectTitleBox:hover h2{
+  color: #e2e2e2;
+}
+.projectTitleBox:hover h3{
+  color: #d4d4d4;
+}
+.projectTitleBox:hover p{
+  color: #d4d4d4;
+}
 h3, .boxHeadline {
     color:#7490b5;
     font-size: 1.5em;
@@ -164,13 +186,22 @@ h3, .boxHeadline {
     padding: 0;
     margin: 0;
 }
-
+.backtoprojects a {
+  text-decoration: none;
+  color:#808080;
+  font-size: 1.25em;
+}
+.backtoprojects a:hover{
+  color:#d4d4d4;
+  font-style: italic;
+}
 .projectDescription {
     color:#7490b5;
     font-size: 1em;
     font-style: italic;
     padding: 0;
     margin: 0;
+    text-decoration: none;
 }
 
 .boxText {
