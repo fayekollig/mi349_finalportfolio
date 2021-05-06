@@ -145,6 +145,10 @@ color: inherit;
     padding: 10px;
 }
 
+.subList {
+  font-size: .9em;
+  font-style: normal;
+}
 
 /*projects styles*/
 .projectBoxWrapper {
@@ -164,10 +168,11 @@ color: inherit;
   margin: 15px;
   text-decoration: none;
   background-color: #e2e2e2;
+  text-align: center;
 }
 .projectTitleBox:hover {
   background-color:#808080;
-  color: #e2e2e2;
+  color: #808080;
   transition-duration: 1s;
 }
 .projectTitleBox:hover h2{
@@ -176,12 +181,12 @@ color: inherit;
 .projectTitleBox:hover h3{
   color: #d4d4d4;
 }
-.projectTitleBox:hover p{
+.projectTitleBox:hover ul{
   color: #d4d4d4;
 }
 h3, .boxHeadline {
     color:#7490b5;
-    font-size: 1.5em;
+    font-size: 1.25em;
     font-style: italic;
     padding: 0;
     margin: 0;
@@ -196,12 +201,14 @@ h3, .boxHeadline {
   font-style: italic;
 }
 .projectDescription {
-    color:#7490b5;
-    font-size: 1em;
+    color:#808080;
+    font-size: 1.25em;
     font-style: italic;
     padding: 0;
     margin: 0;
+    margin-left: 1em;
     text-decoration: none;
+    text-align: left;
 }
 
 .boxText {
@@ -269,7 +276,7 @@ h3, .boxHeadline {
 /* media queries*/
 @media screen and (max-width: 1200px){
     .navHome{
-        font-size: 2em;
+        font-size: 1em;
     }
     .images img{
         height: 225px;
@@ -281,9 +288,6 @@ h3, .boxHeadline {
 }
 
 @media screen and (max-width: 900px) {
-   .navHome {
-    font-size: 1.5em;
-   }
    .images img{
     height: 200px;
     margin: 5px;
@@ -292,10 +296,31 @@ h3, .boxHeadline {
     display: block;
     margin: 0 0 10px 10px;
 }
-.navigation {
-    font-size:1.5em;
+.navHome{
+  padding: 10px 50px 10px 50px;
+  font-size: 1em;
+  text-align: center;
+  background-color: #7490b5;
+  margin: 0;
 }
 
+.navHome a{
+  color: white;
+}
+
+.navHome a:hover {
+  color: #808080;
+}
+
+.navigation {
+  text-align: left;
+  display: block;
+}
+
+.navigation li {
+  float:none;
+  padding: 2px;
+}
 #headshot {
    float: none;
    width: 100%;
@@ -312,6 +337,7 @@ h3, .boxHeadline {
 }
 }
 
+
 @media screen and (max-width: 600px){
     .homeBlock img {
         float: none;
@@ -323,31 +349,7 @@ h3, .boxHeadline {
         margin: 0;
 
     }
-    .navHome{
-        padding: 10px 50px 10px 50px;
-        font-size: 2em;
-        text-align: center;
-        background-color: #7490b5;
-        margin: 0;
-    }
 
-    .navHome a{
-        color: white;
-    }
-
-    .navHome a:hover {
-        color: #808080;
-    }
-
-   .navigation {
-        text-align: left;
-        display: block;
-    }
-
-    .navigation li {
-        float:none;
-        padding: 2px;
-    }
     .images img {
         display: block;
         width: 100%;
