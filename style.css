@@ -115,6 +115,10 @@ color: inherit;
     padding:5px;
 }
 
+.flexBox a {
+  text-decoration: none;
+}
+
 .flexBox img{
     width: 100%;
     height: auto;
@@ -149,6 +153,7 @@ color: inherit;
   font-size: .9em;
   font-style: normal;
 }
+
 
 /*projects styles*/
 .projectBoxWrapper {
