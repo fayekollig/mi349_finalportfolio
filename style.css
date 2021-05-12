@@ -274,9 +274,6 @@ h3, .boxHeadline {
     color: #404040;
 }
 
-.aboutPage {
-    font-size: 1.25em;
-}
 
 /* media queries*/
 @media screen and (max-width: 1200px){
