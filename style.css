@@ -178,6 +178,7 @@ color: inherit;
   background-color: #e2e2e2;
   text-align: center;
 }
+
 .projectTitleBox:hover {
   background-color:#808080;
   color: #808080;
@@ -189,7 +190,7 @@ color: inherit;
 .projectTitleBox:hover h3{
   color: #d4d4d4;
 }
-.projectTitleBox:hover ul{
+.projectTitleBox:hover p{
   color: #d4d4d4;
 }
 h3, .boxHeadline {
@@ -208,15 +209,7 @@ h3, .boxHeadline {
   color:#d4d4d4;
   font-style: italic;
 }
-.projectDescription {
-    color:#808080;
-    font-size: 1.1em;
-    font-style: italic;
-    padding: 0;
-    margin: 0;
-    text-decoration: none;
-    text-align: center;
-}
+
 
 .boxText {
     font-size: 1em;
