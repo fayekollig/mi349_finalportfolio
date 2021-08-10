@@ -336,6 +336,7 @@ h3, .boxHeadline {
 }
 .flexBox {
     width: 100%;
+    border: 5px solid #7490b5;
 }
 }
 
