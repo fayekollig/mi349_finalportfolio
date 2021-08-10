@@ -110,10 +110,10 @@ color: inherit;
 
 .flexBox {
     width: 20%;
-    margin: 10px;
+    margin: 5px;
     height: auto;
     padding: -10px;
-    border: 10px solid #7490b5;
+    border: 8px solid #7490b5;
 }
 
 .flexBox a {
