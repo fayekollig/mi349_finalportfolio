@@ -124,6 +124,7 @@ color: inherit;
     height: auto;
     margin: 0;
     padding:0;
+    border: 5px solid #7490b5;
 }
 
 .flexBox h4 {
@@ -336,7 +337,6 @@ h3, .boxHeadline {
 }
 .flexBox {
     width: 100%;
-    border: 5px solid #7490b5;
 }
 }
 
