@@ -210,7 +210,15 @@ h3, .boxHeadline {
   font-style: italic;
 }
 
-
+.projectDescription {
+  color:#808080;
+  font-size: 1.1em;
+  font-style: italic;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  text-align: center;
+}
 .boxText {
     font-size: 1em;
     padding: 0;
