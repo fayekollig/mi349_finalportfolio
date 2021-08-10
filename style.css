@@ -219,6 +219,13 @@ h3, .boxHeadline {
   text-decoration: none;
   text-align: center;
 }
+
+.researchSubhead {
+  text-align: left;
+  color:#808080;
+  font-size: 1.25em;
+  font-style: italic;
+}
 .boxText {
     font-size: 1em;
     padding: 0;
