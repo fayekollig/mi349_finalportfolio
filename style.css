@@ -112,6 +112,7 @@ color: inherit;
     width: 30%;
     margin: 10px;
     height: auto;
+    padding: 0;
     border: 5px solid #7490b5;
 }
 
@@ -148,6 +149,7 @@ color: inherit;
 .textBox {
     background-color: #7490b5;
     padding: 10px;
+    margin: 0;
 }
 
 .subList {
