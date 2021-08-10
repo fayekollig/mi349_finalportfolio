@@ -113,6 +113,7 @@ color: inherit;
     margin: 10px;
     height: auto;
     padding:5px;
+    border: 10px solid #7490b5;
 }
 
 .flexBox a {
@@ -124,7 +125,7 @@ color: inherit;
     height: auto;
     margin: 0;
     padding:0;
-    border: 5px solid #7490b5;
+    
 }
 
 .flexBox h4 {
@@ -147,7 +148,7 @@ color: inherit;
 
 .textBox {
     background-color: #7490b5;
-    
+    padding: 10px;
 }
 
 .subList {
