@@ -161,7 +161,7 @@ color: inherit;
 /*projects styles*/
 .projectBoxWrapper {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     margin: 0 0 25px 50px;
     text-decoration: none;
 }
