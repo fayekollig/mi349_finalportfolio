@@ -298,6 +298,9 @@ h3, .boxHeadline {
     #headshot {
         margin-right: 25px;
     }
+    .navigation {
+      font-size: 1.5em;
+    }
 }
 
 @media screen and (max-width: 900px) {
@@ -362,8 +365,6 @@ h3, .boxHeadline {
 
 
 @media screen and (max-width: 600px){
-
-
     .images img {
         display: block;
         width: 100%;
