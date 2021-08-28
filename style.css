@@ -301,6 +301,10 @@ h3, .boxHeadline {
 }
 
 @media screen and (max-width: 900px) {
+  .homeBlock {
+    margin: 0;
+
+}
   .homeBlock img {
     float: none;
     width: 100%;
@@ -359,11 +363,6 @@ h3, .boxHeadline {
 
 @media screen and (max-width: 600px){
 
-
-    .homeBlock {
-        margin: 0;
-
-    }
 
     .images img {
         display: block;
