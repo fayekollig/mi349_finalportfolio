@@ -309,13 +309,7 @@ h3, .boxHeadline {
     display: block;
     margin: 0 0 10px 10px;
 }
-.navHome{
-  padding: 10px 50px 10px 50px;
-  font-size: 1em;
-  text-align: center;
-  background-color: #7490b5;
-  margin: 0;
-}
+
 
 .navHome a{
   color: white;
@@ -353,7 +347,14 @@ h3, .boxHeadline {
 
 
 @media screen and (max-width: 600px){
-    .homeBlock img {
+  .navHome{
+    padding: 10px 50px 10px 50px;
+    font-size: 1em;
+    text-align: center;
+    background-color: #7490b5;
+    margin: 0;
+  }  
+  .homeBlock img {
         float: none;
         width: 100%;
         margin: 0;
