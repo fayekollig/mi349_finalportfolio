@@ -22,7 +22,10 @@ main {
 /*Index Styles*/
 
 .indexSubhead {
-  text-align: right;
+  text-align: center;
+  font-style: italic;
+  font-weight: lighter;
+  background-color: white;
   float: left;
 }
 .homeBlock {
@@ -351,6 +354,10 @@ h3, .boxHeadline {
 }
 .flexBox {
     width: 100%;
+}
+
+.indexSubhead {
+  font-size: 1em;
 }
 }
 
