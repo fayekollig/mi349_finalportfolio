@@ -301,7 +301,13 @@ h3, .boxHeadline {
 }
 
 @media screen and (max-width: 900px) {
-   .images img{
+  .homeBlock img {
+    float: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+  .images img{
     height: 200px;
     margin: 5px;
 }
@@ -309,8 +315,6 @@ h3, .boxHeadline {
     display: block;
     margin: 0 0 10px 10px;
 }
-
-
 .navHome a{
   color: white;
 }
@@ -354,12 +358,7 @@ h3, .boxHeadline {
     background-color: #7490b5;
     margin: 0;
   }  
-  .homeBlock img {
-        float: none;
-        width: 100%;
-        margin: 0;
-        padding: 0;
-    }
+
     .homeBlock {
         margin: 0;
 
