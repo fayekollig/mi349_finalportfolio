@@ -21,7 +21,10 @@ main {
 
 /*Index Styles*/
 
-
+.indexSubhead {
+  text-align: right;
+  float: left;
+}
 .homeBlock {
     margin-top: 150px;
 }
