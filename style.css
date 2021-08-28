@@ -21,13 +21,6 @@ main {
 
 /*Index Styles*/
 
-.indexSubhead {
-  text-align: center;
-  font-style: italic;
-  font-weight: lighter;
-  background-color: white;
-  float: left;
-}
 .homeBlock {
     margin-top: 150px;
 }
@@ -296,7 +289,7 @@ h3, .boxHeadline {
 /* media queries*/
 @media screen and (max-width: 1200px){
     .navHome{
-        font-size: 1em;
+        font-size: 1.5em;
     }
     .images img{
         height: 225px;
@@ -356,9 +349,6 @@ h3, .boxHeadline {
     width: 100%;
 }
 
-.indexSubhead {
-  font-size: 1em;
-}
 }
 
 
