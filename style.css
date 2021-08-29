@@ -264,17 +264,18 @@ h3, .boxHeadline {
 
 /*about styles*/
 .aboutPage {
-  padding-top: 20px;
+  margin-top: 20px;
 }
 
 .aboutMe {
-  font-size: 1.5em;
+  font-size: 1.25em;
+  color: red;
 }
 
 #headshot {
     float: left;
     width: 40%;
-    margin: 0 50px 10px 10px;
+    margin: 20px 50px 10px 10px;
 }
 
 .contactBox {
