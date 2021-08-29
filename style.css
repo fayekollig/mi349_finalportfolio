@@ -264,11 +264,11 @@ h3, .boxHeadline {
 
 /*about styles*/
 .aboutPage {
-  margin-top: 20px;
+  padding-top: 20px;
 }
 
 .aboutMe {
-  font-size: 1.25em;
+  font-size: 1.5em;
 }
 
 #headshot {
