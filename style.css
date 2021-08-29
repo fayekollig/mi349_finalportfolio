@@ -355,6 +355,11 @@ h3, .boxHeadline {
     margin: 0;
     padding: 0;
 }
+
+.researchBox img{
+  float: none;
+  width: 100%;
+}
 .navHome{
   padding: 10px 10px 10px 10px;
   font-size: 1.25em;
@@ -411,6 +416,7 @@ h3, .boxHeadline {
         width: 100%;
         height: auto;
     }
+
   
   
 }
