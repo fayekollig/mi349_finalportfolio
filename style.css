@@ -160,6 +160,28 @@ color: inherit;
   font-style: normal;
 }
 
+/*Research Experiences home page styles*/
+
+.researchBoxWrapper img {
+  float: left;
+  width: 20%;
+}
+
+.researchBox {
+  width: 80%;
+}
+
+.researchBox h2 {
+
+}
+
+.researchBox h3 {
+  
+}
+
+.researchBox p {
+  
+}
 
 /*projects styles*/
 .projectBoxWrapper {
