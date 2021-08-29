@@ -170,7 +170,7 @@ color: inherit;
 .researchBox img {
   float: left;
   width: 25%;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 .researchBoxWrapper a {
@@ -185,6 +185,7 @@ color: inherit;
 .researchBox p {
   font-size: 1.25em;
   color: #404040;
+  margin: 0;
 }
 
 .researchBox button {
