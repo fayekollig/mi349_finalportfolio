@@ -71,6 +71,7 @@ main {
     text-align: center;
     font-size: 2em;
     margin: 0;
+    font-weight: lighter;
    
 }
 
@@ -85,10 +86,6 @@ main {
 
 .deselected {
     color: #808080;
-}
-
-.navigation li:hover{
-    font-style: italic;
 }
 
 .navigation li a{
