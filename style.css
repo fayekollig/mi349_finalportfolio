@@ -167,8 +167,8 @@ color: inherit;
 
 .researchBox img {
   float: left;
-  width: 20%;
-  margin-right: 10px;
+  width: 30%;
+  margin: 10px;
 }
 
 .researchBoxWrapper a {
@@ -179,7 +179,7 @@ color: inherit;
   background-color: #e2e2e2;
 }
 .researchBoxWrapper {
-  width: 80%;
+  width: 70%;
   margin: 0 auto;
 }
 
