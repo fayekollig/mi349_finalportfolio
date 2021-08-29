@@ -361,6 +361,10 @@ h3, .boxHeadline {
     .navigation {
       font-size: 1.5em;
     }
+
+    #name {
+      width: 60%;
+    }
 }
 
 @media screen and (max-width: 900px) {
@@ -410,10 +414,6 @@ h3, .boxHeadline {
   float:none;
   padding: 2px;
 }
-#name {
-   width: 75%;
-}
-
 .contactBox {
     margin: 0;
 }
