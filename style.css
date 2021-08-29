@@ -325,9 +325,9 @@ h3, .boxHeadline {
 }
 
 #name {
-  width: 50%;
+  width: 40%;
   padding: 0;
-  margin: 5px -5px 0 0;
+  margin: 10px 0 0 0;
 }
 .contactBox {
     color: #7490b5;
@@ -363,7 +363,7 @@ h3, .boxHeadline {
     }
 
     #name {
-      width: 60%;
+      width: 50%;
     }
 }
 
