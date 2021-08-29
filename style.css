@@ -322,6 +322,9 @@ h3, .boxHeadline {
     margin: 0 50px 10px 10px;
 }
 
+#name {
+  width: 50%;
+}
 .contactBox {
     color: #7490b5;
     font-style: italic;
