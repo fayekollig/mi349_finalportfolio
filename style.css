@@ -359,6 +359,9 @@ h3, .boxHeadline {
 }
 
 @media screen and (max-width: 900px) {
+  .researchBoxWrapper {
+    width: 100%;
+  }
   .homeBlock {
     margin: 0;
 
