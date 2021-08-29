@@ -304,6 +304,8 @@ h3, .boxHeadline {
 /*about styles*/
 .aboutMe {
   font-size: 1.25em;
+  padding: 0;
+  margin: 0;
 }
 
 .aboutPage h2 {
