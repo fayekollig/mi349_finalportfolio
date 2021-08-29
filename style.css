@@ -187,6 +187,15 @@ color: inherit;
   color: #404040;
 }
 
+.researchBox button {
+  color: white;
+  background-color: #7490b5;
+  font-size: 1.25em;
+}
+
+.researchBox button:hover {
+  background-color:#97afce;
+}
 /*projects styles*/
 .projectBoxWrapper {
     display: grid;
@@ -356,10 +365,6 @@ h3, .boxHeadline {
     padding: 0;
 }
 
-.researchBox img{
-  float: none;
-  width: 100%;
-}
 .navHome{
   padding: 10px 10px 10px 10px;
   font-size: 1.25em;
@@ -417,6 +422,9 @@ h3, .boxHeadline {
         height: auto;
     }
 
-  
+.researchBox img{
+  float: none;
+  width: 100%;
+}
   
 }
