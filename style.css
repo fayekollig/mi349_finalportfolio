@@ -26,6 +26,7 @@ main {
     margin: 0 auto;
 }
 
+
 /*Index Styles*/
 
 .homeBlock {
@@ -262,6 +263,13 @@ h3, .boxHeadline {
 
 
 /*about styles*/
+.aboutPage {
+  margin-top: 20px;
+}
+
+.aboutPage p {
+  font-size: 1.25em;
+}
 #headshot {
     float: left;
     width: 40%;
