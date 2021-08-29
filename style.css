@@ -175,6 +175,7 @@ color: inherit;
 
 .researchBoxWrapper a {
   text-decoration: none;
+  color: #7490b5;
 }
 
 .researchBoxWrapper {
@@ -189,11 +190,12 @@ color: inherit;
   margin-bottom: 1em;
 }
 
+
 .researchBox button {
   color: white;
   background-color: #7490b5;
   font-size: 1.25em;
-  padding: 5px;
+  padding: 10px;
   border: none;
 }
 
