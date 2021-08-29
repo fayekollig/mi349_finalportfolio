@@ -163,12 +163,12 @@ color: inherit;
 /*Research Experiences home page styles*/
 .researchBox {
   padding: 10px;
-  margin-bottom: 3em;
+  margin-bottom: 3.25em;
 }
 
 .researchBox img {
   float: left;
-  width: 30%;
+  width: 25%;
   margin: 10px;
 }
 
