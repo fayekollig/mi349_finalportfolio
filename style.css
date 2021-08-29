@@ -25,7 +25,14 @@ main {
     width: 80%;
     margin: 0 auto;
 }
+.aboutPage {
+  margin-top: 20px;
+}
 
+.aboutMe {
+  font-size: 1.25em;
+  color: red;
+}
 
 /*Index Styles*/
 
@@ -261,16 +268,8 @@ h3, .boxHeadline {
     padding: 0;
 }
 
-
 /*about styles*/
-.aboutPage {
-  margin-top: 20px;
-}
 
-.aboutMe {
-  font-size: 1.25em;
-  color: red;
-}
 
 #headshot {
     float: left;
