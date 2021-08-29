@@ -161,23 +161,25 @@ color: inherit;
 }
 
 /*Research Experiences home page styles*/
-.researchBoxWrapper {
+.researchBox {
   padding: 10px;
 }
-.researchBoxWrapper img {
+
+.researchBox img {
   float: left;
   width: 20%;
+  margin-right: 10px;
 }
 
 .researchBoxWrapper a {
   text-decoration: none;
 }
 
-.researchBoxWrapper:hover {
+.researchBox:hover {
   background-color: #e2e2e2;
 }
-.researchBox {
-  width: 60%;
+.researchBoxWrapper {
+  width: 80%;
 }
 
 .researchBox p {
