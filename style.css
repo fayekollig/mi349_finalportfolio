@@ -358,9 +358,6 @@ h3, .boxHeadline {
         height: 225px;
         margin: 5px;
     }
-    #headshot {
-        margin-right: 25px;
-    }
     .navigation {
       font-size: 1.5em;
     }
@@ -413,9 +410,8 @@ h3, .boxHeadline {
   float:none;
   padding: 2px;
 }
-#headshot {
-   float: none;
-   width: 100%;
+#name {
+   width: 75%;
 }
 
 .contactBox {
@@ -442,5 +438,11 @@ h3, .boxHeadline {
   float: none;
   width: 100%;
 }
-  
+  #headshot {
+    float:none;
+    width: 100%
+  }
+  #name {
+    width: 100%;
+  }
 }
