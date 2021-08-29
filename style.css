@@ -332,11 +332,11 @@ h3, .boxHeadline {
     padding: 0;
 }
 .contactBox a{
-    color: white;
+    color: #404040;
 }
 .contactBox a:hover {
     font-style: italic;
-    color: #404040;
+    color: #d4d4d4;
 }
 
 
