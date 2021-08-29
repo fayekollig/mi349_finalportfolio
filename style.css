@@ -180,6 +180,7 @@ color: inherit;
 }
 .researchBoxWrapper {
   width: 80%;
+  margin: 0 auto;
 }
 
 .researchBox p {
