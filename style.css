@@ -163,7 +163,7 @@ color: inherit;
 /*Research Experiences home page styles*/
 .researchBox {
   padding: 10px 10px 20px 30px;
-  margin-bottom: 3.25em;
+  margin-bottom: 3em;
   font-weight: 0;
 }
 
@@ -190,12 +190,11 @@ color: inherit;
   margin-bottom: 1em;
 }
 
-
 .researchBox button {
   color: white;
   background-color: #7490b5;
   font-size: 1.25em;
-  padding: 10px;
+  padding: 10px 20px 10px 20px;
   border: none;
 }
 
