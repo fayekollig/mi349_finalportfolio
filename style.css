@@ -191,6 +191,8 @@ color: inherit;
   color: white;
   background-color: #7490b5;
   font-size: 1.25em;
+  padding: 5px;
+  border: none;
 }
 
 .researchBox button:hover {
