@@ -107,12 +107,11 @@ color: inherit;
 .flexGrid {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly; 
-    align-items: flex-start;
+    justify-content:start; 
 }
 
 .flexBox {
-    width: 40%;
+    width: 30%;
     margin: 5px;
     height: auto;
 }
