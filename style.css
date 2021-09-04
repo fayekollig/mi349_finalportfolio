@@ -1,6 +1,7 @@
 /*Universal Styles*/
 body {
     font-family:'Franklin Gothic', 'Arial Narrow', sans-serif;
+    cursor: default;
 }
 h1 {
     font-size: 3em;
