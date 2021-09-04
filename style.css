@@ -183,6 +183,10 @@ color: inherit;
   color: #7490b5;
 }
 
+.researchBoxWrapper a:hover{
+  color: #d4d4d4;
+}
+
 .researchBoxWrapper {
   width: 70%;
   margin: 0 auto;
@@ -201,6 +205,7 @@ color: inherit;
   font-size: 1.25em;
   padding: 10px 20px 10px 20px;
   border: none;
+  cursor: pointer;
 }
 
 .researchBox button:hover {
