@@ -141,6 +141,7 @@ color: inherit;
     color:white;
     margin: 0;
     padding: 0;
+    font-style: normal;
 }
 
 .flexBox p {
@@ -283,10 +284,6 @@ h3, .boxHeadline {
 
 .boxText a {
     color: #7490b5;
-}
-
-.boxText a:hover {
-    font-style: italic;
 }
 
 .images img{
