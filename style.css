@@ -332,6 +332,7 @@ h3, .boxHeadline {
 }
 
 #aboutmeBox {
+  float: left;
   background-color: white;
   padding: 5px;
 }
