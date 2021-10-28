@@ -313,7 +313,10 @@ h3, .boxHeadline {
   font-size: 1.25em;
   padding: 0;
   margin: 0;
-  float: left;
+}
+
+.aboutPage {
+  display: flex;
 }
 
 .aboutPage h2 {
@@ -327,7 +330,7 @@ h3, .boxHeadline {
 }
 
 .headshot {
-  float: left;  
+  flex:auto;
 }
 
 .headshot img {
@@ -336,7 +339,7 @@ h3, .boxHeadline {
 
 
 #name {
-  float: left;
+  flex:auto;
   width: 40%;
   padding: 0;
   margin: 0 0 15px 0;
