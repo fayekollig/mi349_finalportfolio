@@ -316,6 +316,11 @@ h3, .boxHeadline {
   margin: 0;
 }
 
+.aboutBox h2 {
+  font-size: 4em;
+  color:#808080;
+}
+
 .aboutPage {
   display: flex;
   flex-wrap: wrap;
