@@ -321,6 +321,10 @@ h3, .boxHeadline {
 }
 
 .aboutPage h2 {
+  font-style: italic;
+}
+
+.aboutPage h2 {
   font-size: 4em;
   font-weight: lightest;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
