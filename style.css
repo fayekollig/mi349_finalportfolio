@@ -329,9 +329,7 @@ h3, .boxHeadline {
   float: left;  
   margin: 0 20px 10px 10px;
 }
-.headshot img {
-  width: 20%;
-}
+
 
 #aboutmeBox {
   float: left;
@@ -377,6 +375,9 @@ h3, .boxHeadline {
     }
 
     #name {
+      width: 50%;
+    }
+    .headshot img {
       width: 50%;
     }
 }
@@ -437,7 +438,9 @@ h3, .boxHeadline {
 .flexBox {
     width: 100%;
 }
-
+.headshot img {
+  width: 100%;
+}
 }
 
 
