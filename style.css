@@ -330,6 +330,9 @@ h3, .boxHeadline {
   margin: 0 20px 10px 10px;
 }
 
+.headshot img {
+  width: 50%;
+}
 
 #aboutmeBox {
   float: left;
@@ -377,9 +380,7 @@ h3, .boxHeadline {
     #name {
       width: 50%;
     }
-    .headshot img {
-      width: 50%;
-    }
+
 }
 
 @media screen and (max-width: 900px) {
