@@ -324,6 +324,7 @@ h3, .boxHeadline {
   display: flex;
   flex-wrap: wrap;
   align-items:center;
+  justify-content: space-around;
 }
 
 .aboutBox {
@@ -333,7 +334,6 @@ h3, .boxHeadline {
 
 .headshot {
   flex-direction: row;
-  align-items: center;
 }
 
 .headshot img {
