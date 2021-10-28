@@ -321,6 +321,10 @@ h3, .boxHeadline {
   flex-wrap: wrap;
 }
 
+.aboutBox {
+  width: 50%;
+}
+
 .headshot {
   flex-direction: row;
 }
@@ -434,6 +438,10 @@ h3, .boxHeadline {
   width: 100%;
 }
 #name {
+  width: 100%;
+}
+
+.aboutBox {
   width: 100%;
 }
 }
