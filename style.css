@@ -323,6 +323,7 @@ h3, .boxHeadline {
 .aboutPage {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
 }
 
 .aboutBox {
