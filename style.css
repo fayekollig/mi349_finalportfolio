@@ -334,6 +334,9 @@ h3, .boxHeadline {
 
 .headshot {
   flex-direction: row;
+  display: flex;
+  align-items:center;
+
 }
 
 .headshot img {
