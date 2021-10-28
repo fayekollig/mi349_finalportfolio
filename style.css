@@ -312,6 +312,7 @@ h3, .boxHeadline {
 .aboutMe {
   font-size: 1.25em;
   padding: 0;
+  padding-top: 10px;
   margin: 0;
 }
 
