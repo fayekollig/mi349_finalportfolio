@@ -322,7 +322,8 @@ h3, .boxHeadline {
 }
 
 .aboutBox {
-  width: 50%;
+  width: 75%;
+  margin:auto;
 }
 
 .headshot {
