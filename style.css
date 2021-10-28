@@ -348,7 +348,7 @@ h3, .boxHeadline {
 
 .aboutBox {
   flex-direction: row;
-
+  float: left;
 }
 .contactBox {
     color: #7490b5;
