@@ -326,7 +326,8 @@ h3, .boxHeadline {
 }
 
 #headshot {
-    width: 30%;
+  float: left;  
+  width: 30%;
     margin: 0 20px 10px 10px;
 }
 
