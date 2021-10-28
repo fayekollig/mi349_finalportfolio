@@ -322,6 +322,8 @@ h3, .boxHeadline {
 
 .aboutPage h2 {
   font-style: italic;
+  margin-bottom: 10px;
+  color:#808080;
 }
 
 .aboutPage h2 {
