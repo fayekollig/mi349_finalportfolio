@@ -327,8 +327,8 @@ h3, .boxHeadline {
 
 #headshot {
   float: left;  
-  width: 20%;
-    margin: 0 20px 10px 10px;
+  max-width: 20%;
+  margin: 0 20px 10px 10px;
 }
 
 #aboutmeBox {
