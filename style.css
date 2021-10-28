@@ -313,8 +313,7 @@ h3, .boxHeadline {
   font-size: 1.25em;
   padding: 0;
   margin: 0;
-  margin-top: 10px;
-  padding-top: 20px;
+  float: left;
 }
 
 .aboutPage h2 {
